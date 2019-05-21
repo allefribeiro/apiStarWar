@@ -3,15 +3,6 @@
 A aplicacao e uma API REST para cadastro de Planetas.</h4><br>
 
 <h2>Consultas</h2>
-| Verbo        | Caminho           |
-| ------------- |:-------------:|
-| DELETE      | /api/planeta |
-| POST      | /api/planeta      |
-| PUT | /api/planeta      |
-| GET | /api/planeta/{id}      |
-| GET | /api/planetas/      |
-
-
 | Tables        | Are                    | Descricao                |
 | ------------- |:-------------:         | -----:                   |
 | DELETE        | /api/planeta           | Deletar Planetas         |
