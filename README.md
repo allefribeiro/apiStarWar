@@ -12,7 +12,7 @@ Para cada planeta, os seguintes dados devem ser obtidos do banco de dados da apl
 Para cada planeta também devemos ter a quantidade de aparições em filmes, que podem ser obtidas pela API pública do Star Wars: https://swapi.co/
 Funcionalidades desejadas:
 
-. Adicionar um planeta (com nome, clima e terreno)
+. Adicionar um planeta (com nome, clima e terreno)<br>
 . Listar planetas
 . Buscar por nome
 . Buscar por ID
