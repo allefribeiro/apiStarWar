@@ -5,7 +5,7 @@ A aplicacao e uma API REST para cadastro de Planetas.</h4><br>
 
 
 
-<h4>Utilizado:</h4><br>
+<h4>Utilizado:</h4>
   . Java<br>
   . Sprin Boot<br> 
   . PostgreSQL 9.6<br>
