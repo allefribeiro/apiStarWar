@@ -11,6 +11,12 @@ A aplicacao e uma API REST para cadastro de Planetas.</h4><br>
 | GET | /api/planeta/{id} |
 | GET | /api/planetas/ |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 
+
 <h2>Utilizado:</h2>
 - Java 8<br>
 - Spring Boot<br> 
