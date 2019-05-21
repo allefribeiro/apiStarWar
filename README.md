@@ -12,13 +12,13 @@ A aplicacao e uma API REST para cadastro de Planetas.</h4><br>
 | GET | /api/planetas/      |
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| DELETE        | right-aligned | $1600 |
-| POST          | centered      |   $12 |
-| PUT           | are neat      |    $1 |
-| GET           | are neat      |    $1 |
-| GET           | are neat      |    $1 |
+| Tables        | Are              | Cool  |
+| ------------- |:-------------:   | -----:|
+| DELETE        | /api/planeta     | $1600 |
+| POST          | /api/planeta     |   $12 |
+| PUT           | /api/planeta     |    $1 |
+| GET           | /api/planeta/{id}|    $1 |
+| GET           | are neat         |    $1 |
 
 <h2>Utilizado:</h2>
 - Java 8<br>
