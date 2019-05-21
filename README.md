@@ -1,5 +1,5 @@
-desafio-planetas
-Desafio - Dados dos planetas de Star Wars
+desafio-planetas<br>
+Desafio - Dados dos planetas de Star Wars<br>
 
 Nossos associados são aficionados por Star Wars e com isso, queremos criar um jogo com algumas informações da franquia.
 
