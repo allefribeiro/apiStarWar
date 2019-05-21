@@ -13,11 +13,11 @@ Para cada planeta também devemos ter a quantidade de aparições em filmes, que
 Funcionalidades desejadas:
 
 . Adicionar um planeta (com nome, clima e terreno)<br>
-. Listar planetas
-. Buscar por nome
-. Buscar por ID
-. Remover planeta
-. Linguagens que usamos: Java, Go, Clojure, Node, Python
+. Listar planetas<br>
+. Buscar por nome<br>
+. Buscar por ID<br>
+. Remover planeta<br>
+. Linguagens que usamos: Java, Go, Clojure, Node, Python<br>
 
 Bancos que usamos: MongoDB, Cassandra, DynamoDB, Datomic
 
