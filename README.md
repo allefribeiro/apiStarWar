@@ -14,6 +14,7 @@ A aplicacao e uma API REST para cadastro de Planetas.</h4><br>
 | GET           | /api/planetas/         | Buscar todos Planetas    |
 
 <h2>Utilizado:</h2>
+
 - Java 8<br>
 - Spring Boot<br> 
 - PostgreSQL 9.6<br>
