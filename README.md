@@ -14,6 +14,11 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 | GET           | /api/planeta/{name}    | Buscar Planetas por Nome |
 | GET           | /api/planetas/         | Buscar todos Planetas    |
 
+| Headers       |                        |                          |
+| ------------- |:-------------:         | -----:                   |
+|               | Key                    | Value                    |
+
+
 <h2>Utilizado:</h2>
 
 - Java 8<br>
