@@ -1,7 +1,7 @@
 
 <h1>Desafio Star Wars</h1>
 
-A aplicacao e uma API REST para cadastro de Planetas.</h4><br>
+A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 
 <h2>Consultas</h2>
 
