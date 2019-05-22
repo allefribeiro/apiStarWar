@@ -20,7 +20,10 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 |               | Content-Type           | application/json         |
 
 <h3>Exemplo:</h3>
-
+<p>
+  <img src="Imagens/apipost" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p
 <h2>Utilizado:</h2>
 
 - Java 8<br>
