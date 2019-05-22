@@ -21,7 +21,7 @@ A aplicacao é uma API REST para cadastrar, consultar, atualizar e deletar Plane
 
 <h3>Observação:</h3>
 
-<p>Não passar id no metodo POST, pois o id é auto-incremente</p>
+<p>Não passar id no método POST, pois o id é auto-incremente</p>
 
 <h3>Exemplo:</h3>
 
