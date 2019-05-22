@@ -7,11 +7,11 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 
 | Metodo        | Url                    | Descricao                |
 | ------------- |:-------------:         | -----:                   |
-| DELETE        | /api/planeta           | Deletar Planetas         |
-| POST          | /api/planeta           | Inserir Planetas         |
-| PUT           | /api/planeta           | Atualizar Planetas       |
-| GET           | /api/planeta/{id}      | Buscar Planetas por ID   |
-| GET           | /api/planeta/{name}    | Buscar Planetas por Nome |
+| DELETE        | /api/planeta           | Deletar Planeta          |
+| POST          | /api/planeta           | Inserir Planeta          |
+| PUT           | /api/planeta           | Atualizar Planeta        |
+| GET           | /api/planeta/{id}      | Buscar Planeta  por ID   |
+| GET           | /api/planeta/{name}    | Buscar Planeta  por Nome |
 | GET           | /api/planetas/         | Buscar todos Planetas    |
 
 | Headers       |                        |                          |
