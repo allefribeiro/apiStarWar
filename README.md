@@ -5,7 +5,7 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 
 <h2>Consultas</h2>
 
-| Tables        | Are                    | Descricao                |
+| Metodo        | Url                    | Descricao                |
 | ------------- |:-------------:         | -----:                   |
 | DELETE        | /api/planeta           | Deletar Planetas         |
 | POST          | /api/planeta           | Inserir Planetas         |
