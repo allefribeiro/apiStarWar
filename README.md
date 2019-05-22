@@ -21,7 +21,7 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 
 <h3>Exemplo:</h3>
 <p>
-  <img src="/Imagens/apipost.png" width="350" alt="accessibility text">
+  <img src="apipost.png" width="350" alt="accessibility text">
 </p
 <h2>Utilizado:</h2>
 
