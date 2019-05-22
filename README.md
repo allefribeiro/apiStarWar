@@ -19,6 +19,10 @@ A aplicacao é uma API REST para cadastrar, consultar, atualizar e deletar Plane
 |               | Key                    | Value                    |
 |               | Content-Type           | application/json         |
 
+<h3>Observação:</h3>
+
+<p>Não é necessário passar id no metodo POST, pois o id é auto-incremente</p>
+
 <h3>Exemplo:</h3>
 
 <p><img src="apipost.png" width="350" alt="accessibility text"></p>
