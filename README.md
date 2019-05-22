@@ -15,9 +15,9 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 | GET           | /api/planetas/         | Buscar todos Planetas    |
 
 | Headers       |                        |                          |
-| ------------- |         |                   |
+| ------------- |     :-------------:    |           -----:         |
 |               | Key                    | Value                    |
-|               |:-------------:         | -----:                   |
+|               |                        |                          |
 |               | Content-Type           | application/json         |
 
 
