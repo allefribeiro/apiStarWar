@@ -19,6 +19,13 @@ A aplicacao é uma API REST para cadastro de Planetas.</h4><br>
 |               | Key                    | Value                    |
 |               | Content-Type           | application/json         |
 
+<h3>Exemplo:</h3>
+
+ {
+  "id": ,
+  "Name": ,
+  
+ }
 
 <h2>Utilizado:</h2>
 
